@@ -1,4 +1,4 @@
-package sandbox.simpleTCPEchoServer;
+package sandbox.simpleTCPEchoServer.send42;
 
 import java.io.*;
 import java.net.*;

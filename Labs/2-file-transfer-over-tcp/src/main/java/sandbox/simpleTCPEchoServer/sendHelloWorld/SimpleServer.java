@@ -1,4 +1,4 @@
-package sandbox.sendFileToServer;
+package sandbox.simpleTCPEchoServer.sendHelloWorld;
 
 import java.io.*;
 import java.net.*;
