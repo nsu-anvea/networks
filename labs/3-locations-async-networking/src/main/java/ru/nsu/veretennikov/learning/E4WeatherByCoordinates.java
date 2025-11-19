@@ -14,6 +14,7 @@ public class E4WeatherByCoordinates {
         sleep(3000);
         return "Weather at " + coordinates + ": Sunny, temp = 25";
     }
+
     public static void main(String[] args) {
         CompletableFuture.supplyAsync(() -> {
             try {
